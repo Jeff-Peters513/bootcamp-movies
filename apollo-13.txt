@@ -2,3 +2,6 @@ Apollo 13
 
 Actor: Tom Hanks
 Drama
+They survied a malfuction and made it back to earth after orbiting the moon.
+
+Toyota uses this movies to teach Toyota TPS.
